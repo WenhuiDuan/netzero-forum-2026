@@ -1,0 +1,20 @@
+# The repository is PUBLIC. Everything tracked here is world-readable,
+# not only the pages GitHub Pages serves. Internal working documents stay
+# in Dropbox and are never committed.
+
+# Internal documentation — operational notes, account arrangements, decisions
+README.md
+SETUP.md
+
+# Build sources and scripts — not needed to serve the site
+_og-card-source.html
+_form-mockup-source.html
+build-og-card.sh
+build-form-mockup.sh
+build_registration_form.gs
+
+# Internal mockup of the registration form — not used by any served page
+assets/img/form-mockup.png
+
+# macOS
+.DS_Store
